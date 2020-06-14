@@ -9,4 +9,4 @@ Sara ![Sara](/home/hamid/Desktop/Arbitszimmer/GitHaus)
 Sara ![Sara](/home/hamid/Desktop/Arbitszimmer/GitHaus)
 
 ## Mein Sohn ##
-Amirali ![Amirali](/home/hamid/Desktop/Arbitszimmer/GitHaus)
+Amirali ![Amirali](/home/hamid/Desktop/Arbeitszimmer/GitHaus)
